@@ -1,0 +1,1 @@
+$(document).ready(function(){var a=0,e=$(".nav"),n=e.offset();$(document).scroll(function(){a=$(this).scrollTop(),a>n.top?$(".navbar-default").addClass("nav-fade"):$(".navbar-default").removeClass("nav-fade").fade()})});

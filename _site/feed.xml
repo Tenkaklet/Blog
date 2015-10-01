@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Your awesome title</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+    <title>Tenkaklet&#39;s Blog</title>
+    <description>Max is a Web Designer, Documentarian and almost a distinguished Musician. He has worked with many different media projects on and off since 2010.  He is  the creator of Tenkaklet Productions.
 </description>
     <link>http://yourdomain.com/</link>
     <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 23 Jul 2015 14:34:16 +0200</pubDate>
-    <lastBuildDate>Thu, 23 Jul 2015 14:34:16 +0200</lastBuildDate>
+    <pubDate>Thu, 27 Aug 2015 12:32:20 +0200</pubDate>
+    <lastBuildDate>Thu, 27 Aug 2015 12:32:20 +0200</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
-        <title>Welcome to Jekyll!</title>
-        <description>&lt;h1 id=&quot;this-is-test&quot;&gt;this is test&lt;/h1&gt;
+        <title>Hello World?</title>
+        <description>&lt;p&gt;There’s always a beginning for everything……&lt;/p&gt;
+
+&lt;p&gt;And for some knowing the end product of one’s labours are equally scary for those who don’t know where to begin. My purpose of this blog is to share my insights, growths, and knowledge of the world around me. I’ve had a blog before, but this time it’s for realz. I decided the other day to fully dive into the Web Design World. The reason being is because the other day a friend of mine asked about SEO (Search Engine Optimisation), and mid-way I realized: “Hey I know this stuff!”. So I decided there and then to commit to Web Design and Web Development. It is pretty fun to realise when one’s passionate about something. It kicks ye in the backend (pun intended) and into new prospective friends, collegues, and eventually clients. Work was going to be fun, from now on! So, as this is my first post it’s a little short. But don’t fret, as you can bet, that you’ll hear from me soon again.&lt;/p&gt;
 </description>
-        <pubDate>Thu, 23 Jul 2015 16:18:49 +0200</pubDate>
-        <link>http://yourdomain.com/jekyll/update/2015/07/23/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2015/07/23/welcome-to-jekyll.html</guid>
+        <pubDate>Mon, 10 Aug 2015 00:00:00 +0200</pubDate>
+        <link>http://yourdomain.com/hello-world/</link>
+        <guid isPermaLink="true">http://yourdomain.com/hello-world/</guid>
         
         
-        <category>jekyll</category>
-        
-        <category>update</category>
+        <category>post</category>
         
       </item>
     
