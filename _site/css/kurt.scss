@@ -1,0 +1,14 @@
+
+@import "header";
+@import "home";
+@import "footer";
+@import "post";
+@import "header-post";
+
+$body-color: rgba(255,255,250,1);
+$header-color: #e74c3c;
+
+
+body {
+	background-color: $body-color;
+}

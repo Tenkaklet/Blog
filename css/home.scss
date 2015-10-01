@@ -1,0 +1,34 @@
+
+$hover: #0085a1;
+$link: #34495e;
+
+a:visited {
+	color: $link;
+}
+a:hover {
+	text-decoration: none;
+	color: $hover;
+	transition: all 0.2s ease-in-out; 
+}
+
+
+a.post-link {
+	color: $link;
+	font-size: 50px;
+	text-decoration: none;	
+	transition: all 0.2s ease-in-out;
+	&:hover {
+		color: $hover;
+	}	
+}
+.site-descript {
+	font-weight: 600;
+	font-style: normal;
+	color: grey;
+}
+p.rss-subscribe {
+	color: #0085a1 !important;
+	font-weight: 600;
+	font-style: normal;
+	transition: all 0.2s ease-in-out;		
+}
